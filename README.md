@@ -1,5 +1,4 @@
-# NLP
-# News Headline Classification Project
+# NLP PROJECT ---> News Headline Classification Project
 
 ## Overview
 This project implements a deep learning-based news headline classification system that automatically categorizes news headlines into predefined categories based on their content. The system uses Natural Language Processing (NLP) techniques and a neural network to achieve high accuracy in classification tasks.
